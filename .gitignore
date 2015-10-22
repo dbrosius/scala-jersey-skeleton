@@ -1,3 +1,7 @@
+# Intellij specific
+.idea/
+*.iml
+
 *.class
 *.log
 
